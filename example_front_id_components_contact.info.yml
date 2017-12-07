@@ -1,0 +1,7 @@
+name: "example_front_id: contact"
+type: module
+description: Adds a component contact to a paragraph type contact.
+package: frontId
+core: 8.x
+dependencies:
+  - webform
